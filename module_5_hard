@@ -81,6 +81,7 @@ class UrTube:
                     print(i + 1, end=' ')
                     sleep(1)
                 print('Конец видео')
+                el.time_now = 0
 
 
 
